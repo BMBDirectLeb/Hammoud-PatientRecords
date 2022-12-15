@@ -1,0 +1,14 @@
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\bin\Release\HammouProject.exe
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\bin\Release\HammouProject.pdb
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\bin\Release\HammouProject.xml
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\Interop.DocumentProcessor90.dll
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\Interop.LFSO90Lib.dll
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\HammouProject.vbproj.ResolveComReference.cache
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\HammouProject.Form1.resources
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\HammouProject.Resources.resources
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\HammouProject.exe
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\HammouProject.xml
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Release\HammouProject.pdb

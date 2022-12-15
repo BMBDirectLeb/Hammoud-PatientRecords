@@ -1,0 +1,48 @@
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\bin\Debug\HammouProject.exe
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\bin\Debug\HammouProject.pdb
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\bin\Debug\HammouProject.xml
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\obj\x86\Debug\HammouProject.Resources.resources
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\obj\x86\Debug\HammouProject.exe
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\obj\x86\Debug\HammouProject.xml
+C:\Users\Training\AppData\Local\Temporary Projects\HammouProject\obj\x86\Debug\HammouProject.pdb
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\HammouProject.exe
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\HammouProject.xml
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\HammouProject.pdb
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\bin\Debug\HammouProject.exe
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\bin\Debug\HammouProject.pdb
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\bin\Debug\HammouProject.xml
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\HammouProject.Resources.resources
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\Interop.DocumentProcessor90.dll
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\Interop.LFSO90Lib.dll
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\HammouProject.vbproj.ResolveComReference.cache
+C:\Users\Training\Documents\Visual Studio 2010\Projects\vb\HammouProject\HammouProject\obj\x86\Debug\HammouProject.Form1.resources
+F:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\Interop.DocumentProcessor90.dll
+F:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\Interop.LFSO90Lib.dll
+F:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.vbproj.ResolveComReference.cache
+F:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.exe
+F:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.xml
+F:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.pdb
+D:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.vbproj.ResolveComReference.cache
+D:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.exe
+D:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.xml
+D:\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.pdb
+D:\Backup 21-05-2013\From Trest VM-LF8.3\VBProjects\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.vbproj.ResolveComReference.cache
+D:\Backup 21-05-2013\From Trest VM-LF8.3\VBProjects\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.exe
+D:\Backup 21-05-2013\From Trest VM-LF8.3\VBProjects\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.xml
+D:\Backup 21-05-2013\From Trest VM-LF8.3\VBProjects\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.pdb
+D:\Backup 27-08-2018\From Trest VM-LF8.3\VBProjects\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.vbproj.ResolveComReference.cache
+D:\Backup 27-08-2018\From Trest VM-LF8.3\VBProjects\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.exe
+D:\Backup 27-08-2018\From Trest VM-LF8.3\VBProjects\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.xml
+D:\Backup 27-08-2018\From Trest VM-LF8.3\VBProjects\Hammoud Hos\HammouProject\HammouProject\obj\x86\Debug\HammouProject.pdb
+C:\Users\Training\Desktop\HammouProject\HammouProject\obj\x86\Debug\Interop.DocumentProcessor90.dll
+C:\Users\Training\Desktop\HammouProject\HammouProject\obj\x86\Debug\Interop.LFSO90Lib.dll
+C:\Users\Training\Desktop\HammouProject\HammouProject\obj\x86\Debug\HammouProject.vbproj.ResolveComReference.cache
+C:\Users\Training\Desktop\HammouProject\HammouProject\obj\x86\Debug\HammouProject.exe
+C:\Users\Training\Desktop\HammouProject\HammouProject\obj\x86\Debug\HammouProject.xml
+C:\Users\Training\Desktop\HammouProject\HammouProject\obj\x86\Debug\HammouProject.pdb

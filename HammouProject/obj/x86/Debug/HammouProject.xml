@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HammouProject
+</name>
+</assembly>
+<members>
+<member name="M:HammouProject.Form1.connDb">
+	<summary>
+ Open connection with laserfiche
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HammouProject.Form1.writeLogFile(System.String,System.String)">
+	<summary>
+ Insert exceptions to the logfile
+ </summary>
+	<param name="text"></param>
+	<param name="fileName"></param>
+	<remarks></remarks>
+</member><member name="M:HammouProject.Form1.createVisits(System.String)">
+	<summary>
+ Create the visits folder under NIP into laserfiche and assign the visite template
+ </summary>
+	<param name="entryName"></param>
+	<remarks>Some fields are inherited from the parent folder(NIP)</remarks>
+</member><member name="P:HammouProject.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HammouProject.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HammouProject.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
