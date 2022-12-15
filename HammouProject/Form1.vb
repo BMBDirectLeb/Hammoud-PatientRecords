@@ -383,9 +383,6 @@ Public Class Form1
 
     Private Sub btnGenerate_Click(sender As System.Object, e As System.EventArgs) Handles btnGenerate.Click
         Timer1_Tick(sender, e)
-
-
-
     End Sub
 
     Public Sub CreateToLaserficheNIP(ByVal dt As DataTable)
@@ -1504,7 +1501,6 @@ Public Class Form1
                     End Try
                 End If
 
-
                 'Try
                 '    Dim secureFolderPPPP As LFFolder = db.GetEntryByPath(pathInLF & "\" & folNumberName & "\" & MedicalFileVisit & "\" & entryName)
                 '    Dim secureGoupVPPPP As LFGroup = db.GetTrusteeByName(groupdeSec)
@@ -1732,8 +1728,6 @@ Public Class Form1
         'MsgBox("tick")
         Timer1.Enabled = False
         Me.btnGenerate.Enabled = False
-
-
 
         ' MsgBox("gg")
 
